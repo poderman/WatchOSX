@@ -1,8 +1,8 @@
 //Version 0.1
 
-//This WatchOS was developed for the Seeeduino XIAO using a 0.96 inch oled but could possible work on
+//WatchOSX was developed for the Seeeduino XIAO using a 0.96 inch oled but could possible work on
 //other Arduinos. This is a open source project and all the files, photos, code and information on this
-//project can be found on my Github
+//project can be found on my Github https://github.com/poderman/WatchOSX
 
 #include <Wire.h>
 #include <Adafruit_GFX.h>
